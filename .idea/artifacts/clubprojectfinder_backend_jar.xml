@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/clubprojectfinder_backend_jar</output-path>
     <root id="archive" name="clubprojectfinder-backend.jar">
       <element id="module-output" name="clubprojectfinder-backend" />
-      <element id="module-output" name="monolotih" />
+      <element id="module-output" name="monolith" />
     </root>
   </artifact>
 </component>
